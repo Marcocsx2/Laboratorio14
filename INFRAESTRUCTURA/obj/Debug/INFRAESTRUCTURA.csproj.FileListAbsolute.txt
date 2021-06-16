@@ -1,0 +1,32 @@
+C:\Users\Usuario\source\repos\MVCAJAX\INFRAESTRUCTURA\bin\Debug\INFRAESTRUCTURA.dll.config
+C:\Users\Usuario\source\repos\MVCAJAX\INFRAESTRUCTURA\bin\Debug\INFRAESTRUCTURA.dll
+C:\Users\Usuario\source\repos\MVCAJAX\INFRAESTRUCTURA\bin\Debug\INFRAESTRUCTURA.pdb
+C:\Users\Usuario\source\repos\MVCAJAX\INFRAESTRUCTURA\bin\Debug\DOMINIO.dll
+C:\Users\Usuario\source\repos\MVCAJAX\INFRAESTRUCTURA\bin\Debug\EntityFramework.dll
+C:\Users\Usuario\source\repos\MVCAJAX\INFRAESTRUCTURA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Usuario\source\repos\MVCAJAX\INFRAESTRUCTURA\bin\Debug\DOMINIO.pdb
+C:\Users\Usuario\source\repos\MVCAJAX\INFRAESTRUCTURA\bin\Debug\EntityFramework.xml
+C:\Users\Usuario\source\repos\MVCAJAX\INFRAESTRUCTURA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Usuario\source\repos\MVCAJAX\INFRAESTRUCTURA\obj\Debug\INFRAESTRUCTURA.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\MVCAJAX\INFRAESTRUCTURA\obj\Debug\INFRAESTRUCTURA.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\MVCAJAX\INFRAESTRUCTURA\obj\Debug\INFRAESTRUCTURA.csproj.CopyComplete
+C:\Users\Usuario\source\repos\MVCAJAX\INFRAESTRUCTURA\obj\Debug\INFRAESTRUCTURA.dll
+C:\Users\Usuario\source\repos\MVCAJAX\INFRAESTRUCTURA\obj\Debug\INFRAESTRUCTURA.pdb
+C:\Users\Usuario\source\repos\MVCAJAX\INFRAESTRUCTURA\obj\Debug\INFRAESTRUCTURA.Migrations.v1.resources
+C:\Users\Usuario\source\repos\MVCAJAX\INFRAESTRUCTURA\obj\Debug\INFRAESTRUCTURA.csproj.GenerateResource.cache
+D:\Tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzada\MVCAJAX\INFRAESTRUCTURA\bin\Debug\INFRAESTRUCTURA.dll.config
+D:\Tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzada\MVCAJAX\INFRAESTRUCTURA\bin\Debug\INFRAESTRUCTURA.dll
+D:\Tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzada\MVCAJAX\INFRAESTRUCTURA\bin\Debug\INFRAESTRUCTURA.pdb
+D:\Tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzada\MVCAJAX\INFRAESTRUCTURA\bin\Debug\DOMINIO.dll
+D:\Tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzada\MVCAJAX\INFRAESTRUCTURA\bin\Debug\EntityFramework.dll
+D:\Tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzada\MVCAJAX\INFRAESTRUCTURA\bin\Debug\EntityFramework.SqlServer.dll
+D:\Tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzada\MVCAJAX\INFRAESTRUCTURA\bin\Debug\DOMINIO.pdb
+D:\Tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzada\MVCAJAX\INFRAESTRUCTURA\bin\Debug\EntityFramework.xml
+D:\Tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzada\MVCAJAX\INFRAESTRUCTURA\bin\Debug\EntityFramework.SqlServer.xml
+D:\Tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzada\MVCAJAX\INFRAESTRUCTURA\obj\Debug\INFRAESTRUCTURA.csprojAssemblyReference.cache
+D:\Tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzada\MVCAJAX\INFRAESTRUCTURA\obj\Debug\INFRAESTRUCTURA.Migrations.v1.resources
+D:\Tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzada\MVCAJAX\INFRAESTRUCTURA\obj\Debug\INFRAESTRUCTURA.csproj.GenerateResource.cache
+D:\Tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzada\MVCAJAX\INFRAESTRUCTURA\obj\Debug\INFRAESTRUCTURA.csproj.CoreCompileInputs.cache
+D:\Tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzada\MVCAJAX\INFRAESTRUCTURA\obj\Debug\INFRAESTRUCTURA.csproj.CopyComplete
+D:\Tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzada\MVCAJAX\INFRAESTRUCTURA\obj\Debug\INFRAESTRUCTURA.dll
+D:\Tecsup\6to ciclo\Desarrollo de aplicaciones empresariales avanzada\MVCAJAX\INFRAESTRUCTURA\obj\Debug\INFRAESTRUCTURA.pdb

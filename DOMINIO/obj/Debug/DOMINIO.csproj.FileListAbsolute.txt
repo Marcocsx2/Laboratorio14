@@ -1,0 +1,5 @@
+C:\Users\Usuario\source\repos\MVCAJAX\DOMINIO\bin\Debug\DOMINIO.dll
+C:\Users\Usuario\source\repos\MVCAJAX\DOMINIO\bin\Debug\DOMINIO.pdb
+C:\Users\Usuario\source\repos\MVCAJAX\DOMINIO\obj\Debug\DOMINIO.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\MVCAJAX\DOMINIO\obj\Debug\DOMINIO.dll
+C:\Users\Usuario\source\repos\MVCAJAX\DOMINIO\obj\Debug\DOMINIO.pdb

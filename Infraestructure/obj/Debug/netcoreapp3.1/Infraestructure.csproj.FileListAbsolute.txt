@@ -1,0 +1,5 @@
+C:\Users\Usuario\source\repos\MVCAJAX\Infraestructure\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Usuario\source\repos\MVCAJAX\Infraestructure\bin\Debug\netcoreapp3.1\MVCAJAX.dll
+C:\Users\Usuario\source\repos\MVCAJAX\Infraestructure\obj\Debug\netcoreapp3.1\Infraestructure.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\MVCAJAX\Infraestructure\obj\Debug\netcoreapp3.1\Infraestructure.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\MVCAJAX\Infraestructure\obj\Debug\netcoreapp3.1\Infraestructure.AssemblyInfo.cs
